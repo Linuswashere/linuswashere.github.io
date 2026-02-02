@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "linuswashere's_website_V2"
-  navbar: 
+  title: "Linus Ma"
+  navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About Me
+      - href: blog.qmd
+        text: Blog
+      - href: roles.qmd
+        text: Selected Theatre Roles
 
 format:
   html:
