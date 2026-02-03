@@ -12,6 +12,8 @@ website:
         text: Blog
       - href: roles.qmd
         text: Selected Theatre Roles
+      - href: https://linuswashere.github.io/testblog
+        text: My Actual Blog
 
 format:
   html:
