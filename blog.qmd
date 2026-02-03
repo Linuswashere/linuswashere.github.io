@@ -1,8 +1,5 @@
 ---
-title: "Blog"
+title: "My Blogs"
 ---
-Hi, this is a blog :)
 
-##Jan 26 - Feb 1
-
-Semesters really do fly by. I wrote my first Psych 391 (Advanced Data Analysis) test on Wednesday, and I hope I did well. I also started to feel unwell that day, but luckily I was able to pull through. I can't say the same though for the weekends, as at the time of writing this, hoooboy I am ridden with coughs and sniffles and a sore body. It hasn't really been a super duper fun week because of the sickness, but oh well. Looking forward to next week! (2 tests :'c)
+[My First Post!](posts/first-blog.qmd)

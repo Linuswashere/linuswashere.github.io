@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "roles.html",
-    "href": "roles.html",
-    "title": "Selected Roles In Theatre",
-    "section": "",
-    "text": "(images/MSNDFlower.jpg){fig-align=“right”}"
-  },
-  {
-    "objectID": "roles.html#oberon-a-midsummer-nights-dream-2025",
-    "href": "roles.html#oberon-a-midsummer-nights-dream-2025",
-    "title": "Selected Roles In Theatre",
-    "section": "",
-    "text": "(images/MSNDFlower.jpg){fig-align=“right”}"
-  },
-  {
     "objectID": "roles.html#curtis-to-be-honest-2025",
     "href": "roles.html#curtis-to-be-honest-2025",
     "title": "Selected Roles In Theatre",
@@ -37,9 +23,23 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "My Blogs",
     "section": "",
-    "text": "Hi, this is a blog :)\n##Jan 26 - Feb 1\nSemesters really do fly by. I wrote my first Psych 391 (Advanced Data Analysis) test on Wednesday, and I hope I did well. I also started to feel unwell that day, but luckily I was able to pull through. I can’t say the same though for the weekends, as at the time of writing this, hoooboy I am ridden with coughs and sniffles and a sore body. It hasn’t really been a super duper fun week because of the sickness, but oh well. Looking forward to next week! (2 tests :’c)"
+    "text": "My First Post!"
+  },
+  {
+    "objectID": "posts/first-blog.html",
+    "href": "posts/first-blog.html",
+    "title": "My First Blog!",
+    "section": "",
+    "text": "Hi, this is a blog :)\n\n\nSemesters really do fly by. I wrote my first Psych 391 (Advanced Data Analysis) test on Wednesday, and I hope I did well. I also started to feel unwell that day, but luckily I was able to pull through. I can’t say the same though for the weekends, as at the time of writing this, hoooboy I am ridden with coughs and sniffles and a sore body. It hasn’t really been a super duper fun week because of the sickness, but oh well. Looking forward to next week! (2 tests :’c)"
+  },
+  {
+    "objectID": "posts/first-blog.html#trying-this-blogging-thing-out",
+    "href": "posts/first-blog.html#trying-this-blogging-thing-out",
+    "title": "My First Blog!",
+    "section": "",
+    "text": "Hi, this is a blog :)\n\n\nSemesters really do fly by. I wrote my first Psych 391 (Advanced Data Analysis) test on Wednesday, and I hope I did well. I also started to feel unwell that day, but luckily I was able to pull through. I can’t say the same though for the weekends, as at the time of writing this, hoooboy I am ridden with coughs and sniffles and a sore body. It hasn’t really been a super duper fun week because of the sickness, but oh well. Looking forward to next week! (2 tests :’c)"
   },
   {
     "objectID": "index.html#about",
