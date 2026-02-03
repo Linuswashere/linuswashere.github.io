@@ -2,11 +2,12 @@
 title: "Selected Roles In Theatre"
 ---
 
-## Selected Roles In Theatre
-Oberon   [A Midsummer Night's Dream] (2025)
+## Oberon   [A Midsummer Night's Dream] (2025)
+![](images/MSNDCloseup.jpg){width=65% fig-align="center"}
+![](images/MSNDFlower.jpg){width=65% fig-align="center"}
 
-Curtis   [To Be Honest] (2025)
+## Curtis   [To Be Honest] (2025)
 
-Jonathan [Vampire Musical] (2025)
+## Jonathan [Vampire Musical] (2025)
 
-Romeo    [Romeo & Juliet] (2024)
+## Romeo    [Romeo & Juliet] (2024)

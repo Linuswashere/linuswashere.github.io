@@ -2,7 +2,7 @@
 title: "Linus Ma"
 ---
 
-![Linus Ma Headshot](images/headshot.png){width=65%}
+![](images/headshot.png){width=50% fig-align="center"}
 
 ## About
 I am a 4th Year Psychology and Theatre & Performance Student attending the University of Waterloo. I have had the privelege to learn from many professors and mentors in both disciplines, expanding my knowledge in my passions.
